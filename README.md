@@ -20,3 +20,6 @@ Script Purpose: Due to my funny kind of setup which is arch linux and an i3WM so
 
 See Beautiful Setup that prompted the writing of the script.
 
+![20230111_223229](https://user-images.githubusercontent.com/98170427/212306009-1cf9d040-bffb-4bca-acf8-169d68fb8059.jpg)
+
+
